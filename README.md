@@ -59,15 +59,7 @@ pip install customtkinter
 
 <img src="https://github.com/0maaz-01/StopWatch/blob/main/Images/A.png" width="600" height="400">
 
----
 
-## Customization
-
-To modify the appearance or behavior:
-1. **Change UI Components:** Adjust fonts, sizes, or layouts in the `Stopwatch` class.
-2. **Add Features:** Enhance the app with additional buttons, themes, or functionalities.
-
----
 
 ## License
 
@@ -80,6 +72,4 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 - **CustomTkinter** for providing a modern UI framework.
 - Python's built-in `time` module for handling stopwatch functionality.
 
---- 
-
-Enjoy using your new stopwatch! 🚀
+---
