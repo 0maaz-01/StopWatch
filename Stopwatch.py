@@ -8,19 +8,15 @@ class Stopwatch:
         self.root.title("Stopwatch")
         self.root.geometry("250x150")
         self.root.resizable(False, False)
-        # To keep it on front of all screens
         self.root.attributes("-topmost", True)
 
-        # Initialize stopwatch variables
         self.running = False
         self.start_time = 0
         self.elapsed_time = 0
 
-        # Display for stopwatch time
         self.label = CTkLabel(root, text="00:00:00", font=("Arial", 60))
         self.label.pack(pady=20)
 
-        # Buttons
         self.start_button = CTkButton(root, text="Start", font=("Arial", 20), command=self.start, width=20)
         self.start_button.place(relx = 0.05, rely = 0.7)
 
