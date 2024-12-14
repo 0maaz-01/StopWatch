@@ -57,7 +57,7 @@ pip install customtkinter
 
 ## Screenshot
 
-_(Add a screenshot of the application here, if available)_
+<img src="https://github.com/0maaz-01/StopWatch/blob/main/Images/A.png" width="600" height="400">
 
 ---
 
