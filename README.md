@@ -63,7 +63,8 @@ pip install customtkinter
 
 ## License
 
-This project is licensed under the MIT License. Feel free to use, modify, and distribute it.
+This project is licensed under the MIT License -- https://github.com/0maaz-01/StopWatch/edit/main/LICENSE.
+Feel free to use, modify, and distribute it.
 
 ---
 
